@@ -1,0 +1,24 @@
+{
+  "name": "exel",
+  "version": "1.0.0",
+  "description": "excel - pet project",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ligalaiz/exel.git"
+  },
+  "keywords": [
+    "exel",
+    "pet",
+    "project"
+  ],
+  "author": "Ligalaiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ligalaiz/exel/issues"
+  },
+  "homepage": "https://github.com/Ligalaiz/exel#readme"
+}
