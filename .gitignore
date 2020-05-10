@@ -81,7 +81,7 @@ web_modules/
 # Optional npm cache directory
 .npm
 
-# Optional eslint cache
+# Optional eslint 
 .eslintcache
 
 # Microbundle cache
