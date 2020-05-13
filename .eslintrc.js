@@ -8,5 +8,8 @@ module.exports = {
   extends: ['eslint:recommended', 'google'],
   rules: {
     'linebreak-style': 'off',
+    'require-jsdoc': 'off',
+    'operator-linebreak': 'off',
+    'no-trailing-spaces': 'off',
   },
 };
